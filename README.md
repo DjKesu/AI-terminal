@@ -1,7 +1,7 @@
 # GPT-Powered Linux Terminal Assistant
 
 ## Overview
-This project is an interactive Linux terminal assistant powered by OpenAI's GPT-4. It provides users with Linux command suggestions based on natural language prompts, detailed explanations for commands, and options for executing commands directly from the terminal. The assistant aims to streamline terminal usage for both new and experienced users.
+This project is an interactive Linux terminal assistant powered by OpenAI's GPT-4o-mini. It provides users with Linux command suggestions based on natural language prompts, detailed explanations for commands, and options for executing commands directly from the terminal. The assistant aims to streamline terminal usage for both new and experienced users.
 
 ## Features
 - **Command Generation**: Uses GPT-4 to generate safe and efficient Linux commands from user prompts.
