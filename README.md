@@ -15,7 +15,7 @@ This project is an interactive Linux terminal assistant powered by OpenAI's GPT-
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/DjKesu/AI-terminal.git
-   cd gpt-linux-assistant
+   cd AI-terminal
    ```
 
 2. **Install Dependencies**:
