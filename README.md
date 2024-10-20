@@ -1,4 +1,4 @@
-_# GPT-Powered Linux Terminal Assistant
+# GPT-Powered Linux Terminal Assistant
 
 ## Overview
 This project is an interactive Linux terminal assistant powered by OpenAI's GPT-4o-mini. It provides users with Linux command suggestions based on natural language prompts, detailed explanations for commands, and options for executing commands directly from the terminal. The assistant aims to streamline terminal usage for both new and experienced users.
@@ -99,7 +99,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any questions, feel free to contact me at [krish.mehta@uwaterloo.ca](mailto:krish.mehta@uwaterloo.ca).
-
-## Acknowledgements
-- Special thanks to OpenAI for providing the GPT-4 model that powers this assistant.
-_
